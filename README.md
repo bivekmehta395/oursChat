@@ -9,10 +9,21 @@ oursChat is an Android-based chatting application developed in Java that allows 
 - **User Profiles**: Customize your profile with a profile picture and status updates.
 - **End-to-End Encryption**: Ensure privacy and security of your conversations with encryption.
 - **Emoji Support**: Express yourself better with a wide range of emojis
+
+## Documentation
+
+For detailed documentation, you can download the PDF:
+
+[Download PDF Documentation](https://link-to-your-pdf.com)
+
+
 # Screenshot
 
 ![WhatsApp Image 2024-10-27 at 10 28 06_756eb164](https://github.com/user-attachments/assets/3bdb8836-7305-4653-ad09-bc7f0d1d52b2)
 ![WhatsApp Image 2024-10-27 at 10 28 07_53371e25](https://github.com/user-attachments/assets/55c2bf79-2209-465a-8f61-0d18725bd9ed)
 ```bash
 git clone https://github.com/bivekmehta395/oursChat.git
+
+
+
 
