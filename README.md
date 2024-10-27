@@ -14,7 +14,7 @@ oursChat is an Android-based chatting application developed in Java that allows 
 
 For detailed documentation, you can download the PDF:
 
-[Download PDF Documentation](file:///D:/project/todaysfinaldoc.pdf)
+[Download PDF Documentation] (file:///D:/project/todaysfinaldoc.pdf)
 
 
 # Screenshot
