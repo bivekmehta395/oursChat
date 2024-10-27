@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "656396785475",
+    "project_id": "neat-roots-ourschat",
+    "storage_bucket": "neat-roots-ourschat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656396785475:android:4f2a5dc2a2059010ea81f6",
+        "android_client_info": {
+          "package_name": "com.example.ourschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656396785475-74goo8r8cblcl4nm5t69qenvl280rlbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXCIkoPo6eOymJaHwoyI6m56sP6FZkoas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656396785475-74goo8r8cblcl4nm5t69qenvl280rlbp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
